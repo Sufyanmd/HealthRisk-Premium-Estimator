@@ -1,0 +1,8 @@
+HealthRisk Premium Estimator
+
+
+Accomplished accurate insurance claim prediction by analyzing key health features such as age, BMI, smoking status, and lifestyle factors using Python and Pandas.
+
+• Improved model performance by training multiple regressors (Linear Regression, Random Forest, XGBoost, SVR), applying feature engineering, scaling, and tuning with GridSearchCV.
+
+• Led to a fully interactive web app by deploying the model with Streamlit, allowing users to input their health details and instantly view predicted insurance costs.
