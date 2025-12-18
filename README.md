@@ -1,4 +1,4 @@
-# 🏥 HealthSure – Medical Insurance Claim Predictor (In Progress)
+# HealthSure – Medical Insurance Claim Predictor (In Progress)
 
 HealthSure is a machine learning project that aims to predict **medical insurance claim amounts** based on key health and lifestyle factors such as age, BMI, smoking status, and region.  
 The goal is to build a complete end-to-end ML pipeline — from data analysis to deployment as an interactive web application.
@@ -7,9 +7,9 @@ This project is currently under development and will be updated as each stage is
 
 ---
 
-## 🚧 Current Project Status: Building Phase
+## Current Project Status: Building Phase
 
-### ✅ Data Exploration & Understanding (Completed)
+### Data Exploration & Understanding (Completed)
 - Loaded insurance dataset using **Pandas**
 - Checked for missing values and duplicates
 - Analyzed data distribution (histograms, bar plots, box plots)
@@ -19,7 +19,7 @@ This project is currently under development and will be updated as each stage is
   - BMI categories
   - Smoker/Non-smoker encoding
 
-### 🔄 Model Development (In Progress)
+### Model Development (In Progress)
 - Preparing data for training using:
   - Label Encoding
   - Feature Scaling
@@ -34,16 +34,10 @@ This project is currently under development and will be updated as each stage is
   - **Mean Absolute Error (MAE)**
   - **Root Mean Squared Error (RMSE)**
 
-### 📝 Upcoming Work
-- Hyperparameter tuning using **GridSearchCV**
-- Exporting final model, scaler, and encoders using **Joblib**
-- Building a **Streamlit** web application
-- Integrating the deployed model for real-time prediction
-- UI improvements & result visualization
-
+    
 ---
 
-## 🧠 Project Objective
+## Project Objective
 
 The purpose of HealthSure is to:
 
@@ -55,7 +49,7 @@ This aligns with real-world applications where insurance companies use ML to est
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Data Analysis & Visualization**
 - Python  
@@ -75,7 +69,7 @@ This aligns with real-world applications where insurance companies use ML to est
 
 ---
 
-## 🧪 Goals for Final Version
+## Goals for Final Version
 
 - Accurate ML model with tuned parameters  
 - Clean, understandable visualizations  
@@ -85,7 +79,7 @@ This aligns with real-world applications where insurance companies use ML to est
 
 ---
 
-## 📌 Note
+## Note
 This repository will be updated continuously as development progresses.  
 Feel free to ⭐ star the repo if you want to follow along!
 
